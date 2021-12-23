@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="Description" content="English vocabulary test.">
+<title>wordLink</title>
+<link rel="shortcut icon" href="img/link_128px_1189600_easyicon.net.ico" type="image/x-icon" />
+
+<link rel="stylesheet" href="css/modestyle.css">
+<link rel="stylesheet" href="css/drop-down.css">
+<link rel="stylesheet" href="css/normalize.min.css">
+<link id="theme" rel="stylesheet" href="css/theme-red.css">
+
+<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+<script type="text/jscript" src="js/init.js"></script>
+<script type="text/javascript" src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/select-widget-min.js"></script>
+
+</head> 
+<body>
+
+<div id = "container">
+
+<form class = "body"> 
+  
+	<fieldset>
+		<legend class="h3">Select unit</legend>
+		<select name="drop1" class="ui-select"></select>
+	</fieldset>
+    
+    <fieldset>
+		<legend class="h3">Select mode</legend>
+  		<div class="swappy-radios" role="radiogroup" aria-labelledby="swappy-radios-label">
+  			<label>  
+    			<input class="red" type="radio" name="options" checked /><span class="radio"></span>
+    			<span class="red">Alphabetical</span>
+  			</label>
+  			<label>
+    			<input class="green" type="radio" name="options" /><span class="radio"></span>
+    			<span class="green">Random</span>
+  			</label>
+  		</div>  
+	</fieldset>
+    
+    <input id = "gb" type="button" value="Start test" />
+    
+</form>
+
+</div>
+</body>
+
+<script  src="js/index.js"></script>
+
+</html>

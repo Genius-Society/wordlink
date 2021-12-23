@@ -1,0 +1,56 @@
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+ 
+.h3 {
+  font-size: 2.5rem;
+  margin-left: 5px;
+  color:#555;
+}
+
+.swappy-radios {
+  width: 75%; 
+  margin: 30px auto;
+}
+
+.swappy-radios label {
+  display: block;
+  position: relative;
+  padding-left: 4rem;
+  margin-bottom: 1.5rem;
+  cursor: pointer;
+  font-size: 2rem;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  color: #555;
+}
+.swappy-radios label:hover input ~ .radio {
+  opacity: 0.8;
+}
+.swappy-radios input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.swappy-radios input:checked ~ .radio::after {
+  opacity: 1;
+}
+
+.swappy-radios .radio::after {
+  display: block;
+  content: '';
+  position: absolute;
+  opacity: 0;
+  top: .5rem;
+  left: .5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: #fff;
+}

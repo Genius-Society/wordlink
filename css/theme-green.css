@@ -1,0 +1,87 @@
+html, body {
+	background: #0bae72;
+}
+
+#gb{
+	color:white;
+	background: #0bae72;
+	border:solid #0bae72 4px; 
+} 
+
+#gb:hover{
+	color:#0bae72;
+	background: white; 
+} 
+ 
+div.select-main {
+	background-color:#FFFFFF;
+	border:2px solid #0bae72;
+	border-radius:5px;
+	font-family:Helvetica, arial, sans-serif;
+	font-size:2rem;  
+	height:40px;
+	position:relative;
+	width:75%;
+	margin: 30px auto;
+	
+	-webkit-user-select:none; /* webkit (safari, chrome) browsers */
+    -moz-user-select:none; /* mozilla browsers */
+    -khtml-user-select:none; /* webkit (konqueror) browsers */
+    -ms-user-select:none; /* IE10+ */
+}
+
+div.select-arrow { 
+	border-top:7px solid #0bae72; 
+	border-left:7px solid transparent;
+	border-right:7px solid transparent;
+	cursor:pointer;
+	height:0px;
+	position:absolute;
+	top:18px;
+	right:10px;
+	width:0px;
+	z-index:7;
+}
+
+div.select-arrow.reverse {
+	border-top:7px solid transparent;
+	border-bottom:7px solid #0bae72; 
+	top:10px;
+}
+
+div.select-block { 
+	background-color:#FFFFFF;
+	border:2px solid #0bae72;
+    border-radius:5px;
+	left:-2px;
+    line-height:20px;
+    position:absolute;
+    top:40px;
+    width:100%;
+}
+
+li.select-items:hover,
+li.select-items.active {
+	background-color:#0bae72; 
+	color:#FFFFFF;
+} 
+
+.swappy-radios input:checked ~ span {
+  color: #0bae72;
+  transition: color .5s;
+}
+.swappy-radios input:checked ~ .radio {
+  background-color: #0ac07d;
+  opacity: 1 !important;
+}
+
+.swappy-radios .radio {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 2.5rem;
+  width: 2.5rem;
+  background: #c9ded6;
+  border-radius: 50%;
+}
+ 

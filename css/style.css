@@ -1,0 +1,136 @@
+
+html, body{
+	height:100%; 
+}
+
+body{
+	background:#fff;
+	cursor:default;
+	
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:18px;
+}
+
+h{ 
+	display: block;
+	width:100%;
+	margin: 0 auto;
+	text-align:center; 
+}
+/*
+#wordlist{
+	position:relative;
+	margin: 0 auto;
+	padding: 0 auto;
+	width: 100%; 
+}
+*/
+#mbox{
+	position: relative;
+	padding:8px;
+	width: 100%;
+	height:100%;
+	min-width: 320px !important;
+	min-height: 780px !important;
+	background: none;	
+}
+
+span{
+	position:relative;
+	margin:5px auto;	
+	display:block;
+	text-align:center; 
+	
+	width:fit-content;
+	width:-webkit-fit-content;
+	width:-moz-fit-content;
+	
+	height:fit-content;
+	height:-webkit-fit-content;
+	height:-moz-fit-content;
+}
+ 
+#ans p{
+	margin:5px auto;
+	text-align:center;
+	display:block;	
+	
+	width:fit-content;
+	width:-webkit-fit-content;
+	width:-moz-fit-content;
+	
+	height:fit-content;
+	height:-webkit-fit-content;
+	height:-moz-fit-content; 
+}
+
+#mark p{
+	margin: 0 auto;
+	display:block;
+	text-align:center; 
+}
+ 
+#progress{
+	display:block;
+	margin: 20px auto;
+	text-align:center; 
+}
+
+#mh, #ans{
+	position: relative;
+	margin:5px auto;
+	width: 100%;
+	height: 100%;
+	 
+	border-collapse: inherit;
+	border-spacing: 0;
+	border-color: #000;
+	table-layout: fixed; 
+}
+
+input{
+	display:block;
+	position: relative;
+	margin: 0 auto;
+	text-align:center;
+	  
+	font-size:18px;  
+	background: #fff;
+	color: #000;
+	cursor: pointer;
+	
+	width:fit-content;
+	width:-webkit-fit-content;
+	width:-moz-fit-content;
+	
+	border: none; 
+}
+
+input:disabled{ 
+    color: grey;
+	cursor: default;
+}
+
+
+input:focus{
+	outline: none;
+	border:none;
+} 
+
+#list{
+	border: none;
+	outline: none;
+	
+	font-size:18px; 
+	text-align: right;
+	direction:rtl;
+	cursor: row-resize; 
+	
+	appearance:none;
+        -moz-appearance:none;
+        -webkit-appearance:none;
+} 
