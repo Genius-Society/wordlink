@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "dual",
+        "Answer": "double",
+        "Options": ""
+    },
+    {
+        "Question": "duplicated",
+        "Answer": "copied",
+        "Options": "repeated"
+    },
+    {
+        "Question": "durable",
+        "Answer": "long lasting",
+        "Options": "existing for a long time without significant damage"
+    },
+    {
+        "Question": "duration",
+        "Answer": "length of time",
+        "Options": ""
+    },
+    {
+        "Question": "dwellers",
+        "Answer": "inhabitants",
+        "Options": ""
+    },
+    {
+        "Question": "dwelling",
+        "Answer": "living",
+        "Options": ""
+    },
+    {
+        "Question": "dynamic",
+        "Answer": "active",
+        "Options": ""
+    },
+    {
+        "Question": "earn",
+        "Answer": "acquire",
+        "Options": ""
+    },
+    {
+        "Question": "ease",
+        "Answer": "facilitate",
+        "Options": ""
+    },
+    {
+        "Question": "eccentric",
+        "Answer": "strange",
+        "Options": "erratic"
+    },
+    {
+        "Question": "edible",
+        "Answer": "eatable",
+        "Options": "things that can be eaten"
+    },
+    {
+        "Question": "efface",
+        "Answer": "eliminate",
+        "Options": ""
+    },
+    {
+        "Question": "efficacy",
+        "Answer": "effectiveness",
+        "Options": ""
+    },
+    {
+        "Question": "efforts",
+        "Answer": "attempts",
+        "Options": ""
+    },
+    {
+        "Question": "elaborate",
+        "Answer": "detailed",
+        "Options": "complex"
+    },
+    {
+        "Question": "elaborately",
+        "Answer": "with great detail",
+        "Options": "well develop/ development"
+    },
+    {
+        "Question": "elapsed",
+        "Answer": "passed",
+        "Options": ""
+    },
+    {
+        "Question": "elevate",
+        "Answer": "raise",
+        "Options": ""
+    },
+    {
+        "Question": "eliminate",
+        "Answer": "get rid of",
+        "Options": "remove"
+    },
+    {
+        "Question": "elite",
+        "Answer": "excellent person",
+        "Options": "upper class"
+    },
+    {
+        "Question": "elusive",
+        "Answer": "difficult to catch",
+        "Options": ""
+    },
+    {
+        "Question": "elongate",
+        "Answer": "stretch",
+        "Options": ""
+    },
+    {
+        "Question": "emante",
+        "Answer": "emerge",
+        "Options": ""
+    },
+    {
+        "Question": "embark on",
+        "Answer": "start",
+        "Options": ""
+    },
+    {
+        "Question": "embed",
+        "Answer": "enclose",
+        "Options": "insert"
+    },
+    {
+        "Question": "embellishing",
+        "Answer": "making more attractive",
+        "Options": ""
+    },
+    {
+        "Question": "embody",
+        "Answer": "incarnate",
+        "Options": ""
+    },
+    {
+        "Question": "emergence",
+        "Answer": "rise",
+        "Options": "appearance"
+    },
+    {
+        "Question": "emergency",
+        "Answer": "crisis",
+        "Options": ""
+    },
+    {
+        "Question": "emergent",
+        "Answer": "developing",
+        "Options": ""
+    },
+    {
+        "Question": "emitted",
+        "Answer": "released",
+        "Options": "send out"
+    },
+    {
+        "Question": "empirical",
+        "Answer": "based on observation",
+        "Options": ""
+    },
+    {
+        "Question": "employ",
+        "Answer": "use",
+        "Options": ""
+    },
+    {
+        "Question": "enabling",
+        "Answer": "allowing",
+        "Options": ""
+    },
+    {
+        "Question": "enactment",
+        "Answer": "performance",
+        "Options": ""
+    },
+    {
+        "Question": "encompasses",
+        "Answer": "includes",
+        "Options": ""
+    },
+    {
+        "Question": "encounters",
+        "Answer": "meets",
+        "Options": ""
+    },
+    {
+        "Question": "encourage",
+        "Answer": "stimulate",
+        "Options": ""
+    },
+    {
+        "Question": "end",
+        "Answer": "purpose",
+        "Options": ""
+    },
+    {
+        "Question": "endangered",
+        "Answer": "not abundant",
+        "Options": ""
+    },
+    {
+        "Question": "endeavors",
+        "Answer": "efforts",
+        "Options": ""
+    },
+    {
+        "Question": "endorse",
+        "Answer": "support",
+        "Options": ""
+    },
+    {
+        "Question": "endowing",
+        "Answer": "providing",
+        "Options": ""
+    },
+    {
+        "Question": "enduring",
+        "Answer": "lasting",
+        "Options": "withstanding"
+    },
+    {
+        "Question": "engage in",
+        "Answer": "involve in",
+        "Options": ""
+    },
+    {
+        "Question": "engraved",
+        "Answer": "carved",
+        "Options": ""
+    },
+    {
+        "Question": "engulf",
+        "Answer": "swallow",
+        "Options": ""
+    },
+    {
+        "Question": "enhanced",
+        "Answer": "improved",
+        "Options": "increased"
+    },
+    {
+        "Question": "enlist",
+        "Answer": "assist",
+        "Options": ""
+    },
+    {
+        "Question": "enigmatic",
+        "Answer": "mysterious",
+        "Options": ""
+    },
+    {
+        "Question": "enjoy",
+        "Answer": "experience",
+        "Options": ""
+    },
+    {
+        "Question": "enormous",
+        "Answer": "huge",
+        "Options": "very large"
+    },
+    {
+        "Question": "enrich",
+        "Answer": "enhance",
+        "Options": ""
+    },
+    {
+        "Question": "ensue",
+        "Answer": "result",
+        "Options": ""
+    },
+    {
+        "Question": "ensuing",
+        "Answer": "subsequent",
+        "Options": ""
+    },
+    {
+        "Question": "ensure",
+        "Answer": "guarantee",
+        "Options": ""
+    },
+    {
+        "Question": "entail",
+        "Answer": "involve",
+        "Options": ""
+    },
+    {
+        "Question": "enthusiasitc",
+        "Answer": "eager",
+        "Options": ""
+    },
+    {
+        "Question": "entirely",
+        "Answer": "completely",
+        "Options": ""
+    },
+    {
+        "Question": "entitled to",
+        "Answer": "give the right to",
+        "Options": ""
+    },
+    {
+        "Question": "environment",
+        "Answer": "setting",
+        "Options": ""
+    },
+    {
+        "Question": "envision",
+        "Answer": "imagine",
+        "Options": ""
+    },
+    {
+        "Question": "ephemeral",
+        "Answer": "short-lived",
+        "Options": "transient"
+    },
+    {
+        "Question": "episodes",
+        "Answer": "occurrence",
+        "Options": "a series of events"
+    },
+    {
+        "Question": "epitomize",
+        "Answer": "exemplify",
+        "Options": ""
+    },
+    {
+        "Question": "equilibrium",
+        "Answer": "balance",
+        "Options": ""
+    },
+    {
+        "Question": "era",
+        "Answer": "period",
+        "Options": ""
+    },
+    {
+        "Question": "eradicate",
+        "Answer": "remove completely",
+        "Options": ""
+    },
+    {
+        "Question": "erected",
+        "Answer": "built/ construct",
+        "Options": "stand up"
+    },
+    {
+        "Question": "eroded",
+        "Answer": "worn down",
+        "Options": ""
+    },
+    {
+        "Question": "erratic",
+        "Answer": "unpredictable",
+        "Options": ""
+    },
+    {
+        "Question": "erroneous",
+        "Answer": "wrong",
+        "Options": ""
+    },
+    {
+        "Question": "escalated",
+        "Answer": "intensified",
+        "Options": ""
+    },
+    {
+        "Question": "essential",
+        "Answer": "fundamental",
+        "Options": "integral"
+    },
+    {
+        "Question": "established",
+        "Answer": "qualified",
+        "Options": ""
+    },
+    {
+        "Question": "establishment",
+        "Answer": "formation",
+        "Options": ""
+    },
+    {
+        "Question": "estimate",
+        "Answer": "projection",
+        "Options": "evaluate"
+    },
+    {
+        "Question": "ethic",
+        "Answer": "set of moral principles",
+        "Options": ""
+    },
+    {
+        "Question": "exaggerate",
+        "Answer": "overstate",
+        "Options": ""
+    },
+    {
+        "Question": "excavated",
+        "Answer": "dug from the groud",
+        "Options": ""
+    },
+    {
+        "Question": "exceed",
+        "Answer": "go beyond",
+        "Options": ""
+    },
+    {
+        "Question": "exceedingly",
+        "Answer": "highly",
+        "Options": "extremely"
+    },
+    {
+        "Question": "exceptional",
+        "Answer": "extraordinary",
+        "Options": "unusual"
+    },
+    {
+        "Question": "exclusively",
+        "Answer": "solely",
+        "Options": "only"
+    },
+    {
+        "Question": "excrete",
+        "Answer": "expel",
+        "Options": ""
+    },
+    {
+        "Question": "execute",
+        "Answer": "perform",
+        "Options": ""
+    },
+    {
+        "Question": "exercised",
+        "Answer": "applied",
+        "Options": ""
+    },
+    {
+        "Question": "exert",
+        "Answer": "utilize",
+        "Options": ""
+    },
+    {
+        "Question": "exhausting",
+        "Answer": "extremely tiring",
+        "Options": "use up"
+    },
+    {
+        "Question": "exhibit",
+        "Answer": "display",
+        "Options": "show"
+    },
+    {
+        "Question": "expanded",
+        "Answer": "was enlarged",
+        "Options": ""
+    },
+    {
+        "Question": "expanse",
+        "Answer": "area",
+        "Options": ""
+    },
+    {
+        "Question": "expansive",
+        "Answer": "large",
+        "Options": ""
+    },
+    {
+        "Question": "expediency",
+        "Answer": "advantage",
+        "Options": "convenience"
+    },
+    {
+        "Question": "experimental",
+        "Answer": "trial",
+        "Options": ""
+    },
+    {
+        "Question": "explicit",
+        "Answer": "obvious",
+        "Options": "clear"
+    },
+    {
+        "Question": "exploit",
+        "Answer": "use to advantage/ taking advantage of",
+        "Options": "utilize"
+    },
+    {
+        "Question": "explore",
+        "Answer": "investigate",
+        "Options": ""
+    },
+    {
+        "Question": "exposed",
+        "Answer": "unprotected",
+        "Options": "visible"
+    },
+    {
+        "Question": "express",
+        "Answer": "communicate",
+        "Options": ""
+    }
+]

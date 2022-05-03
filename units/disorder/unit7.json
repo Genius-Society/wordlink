@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "doctrine",
+        "Answer": "principle",
+        "Options": ""
+    },
+    {
+        "Question": "momentous",
+        "Answer": "very important",
+        "Options": ""
+    },
+    {
+        "Question": "lure",
+        "Answer": "attract",
+        "Options": ""
+    },
+    {
+        "Question": "ensue",
+        "Answer": "result",
+        "Options": ""
+    },
+    {
+        "Question": "boundary",
+        "Answer": "periphery",
+        "Options": ""
+    },
+    {
+        "Question": "advocated",
+        "Answer": "promoted",
+        "Options": "proponents"
+    },
+    {
+        "Question": "flaw",
+        "Answer": "fault",
+        "Options": "incorrect"
+    },
+    {
+        "Question": "lavishly",
+        "Answer": "richly",
+        "Options": ""
+    },
+    {
+        "Question": "highlights",
+        "Answer": "emphasizes",
+        "Options": ""
+    },
+    {
+        "Question": "marginally",
+        "Answer": "slightly",
+        "Options": ""
+    },
+    {
+        "Question": "foul",
+        "Answer": "pollute",
+        "Options": ""
+    },
+    {
+        "Question": "compression",
+        "Answer": "crushing",
+        "Options": ""
+    },
+    {
+        "Question": "array",
+        "Answer": "range",
+        "Options": ""
+    },
+    {
+        "Question": "scarcity",
+        "Answer": "lack",
+        "Options": ""
+    },
+    {
+        "Question": "location",
+        "Answer": "place",
+        "Options": ""
+    },
+    {
+        "Question": "subsistence",
+        "Answer": "survival",
+        "Options": ""
+    },
+    {
+        "Question": "the application of waterpower",
+        "Answer": "the uses to which waterpower was put",
+        "Options": ""
+    },
+    {
+        "Question": "simultaneously",
+        "Answer": "at the same time",
+        "Options": ""
+    },
+    {
+        "Question": "significant",
+        "Answer": "considerable",
+        "Options": "important"
+    },
+    {
+        "Question": "alarm",
+        "Answer": "sound",
+        "Options": "warning"
+    },
+    {
+        "Question": "augment",
+        "Answer": "increase",
+        "Options": "supplement"
+    },
+    {
+        "Question": "prediction",
+        "Answer": "expectation",
+        "Options": ""
+    },
+    {
+        "Question": "engage in",
+        "Answer": "involve in",
+        "Options": ""
+    },
+    {
+        "Question": "intact",
+        "Answer": "undamaged",
+        "Options": "whole"
+    },
+    {
+        "Question": "conversely",
+        "Answer": "on the other hand",
+        "Options": ""
+    },
+    {
+        "Question": "overwhelming",
+        "Answer": "powerful",
+        "Options": ""
+    },
+    {
+        "Question": "representative",
+        "Answer": "typical",
+        "Options": ""
+    },
+    {
+        "Question": "suppress",
+        "Answer": "stop by force",
+        "Options": ""
+    },
+    {
+        "Question": "logical",
+        "Answer": "reasonable",
+        "Options": ""
+    },
+    {
+        "Question": "convergence",
+        "Answer": "gathering",
+        "Options": "concentrating"
+    },
+    {
+        "Question": "function",
+        "Answer": "purpose",
+        "Options": ""
+    },
+    {
+        "Question": "intense",
+        "Answer": "extreme",
+        "Options": ""
+    },
+    {
+        "Question": "surpass",
+        "Answer": "exceed",
+        "Options": "be higher than"
+    },
+    {
+        "Question": "compelled",
+        "Answer": "required",
+        "Options": "push"
+    },
+    {
+        "Question": "hemispheres",
+        "Answer": "sides",
+        "Options": ""
+    },
+    {
+        "Question": "encompasses",
+        "Answer": "includes",
+        "Options": ""
+    },
+    {
+        "Question": "coalesced",
+        "Answer": "joined",
+        "Options": ""
+    },
+    {
+        "Question": "rival",
+        "Answer": "competing",
+        "Options": ""
+    },
+    {
+        "Question": "reasonable",
+        "Answer": "sufficient",
+        "Options": ""
+    },
+    {
+        "Question": "pioneering",
+        "Answer": "original/ introduced",
+        "Options": "leader"
+    },
+    {
+        "Question": "dependable",
+        "Answer": "reliable",
+        "Options": ""
+    },
+    {
+        "Question": "clear",
+        "Answer": "visible",
+        "Options": "apparrent"
+    },
+    {
+        "Question": "eccentric",
+        "Answer": "strange",
+        "Options": "erratic"
+    },
+    {
+        "Question": "remote",
+        "Answer": "distant",
+        "Options": "isolated"
+    },
+    {
+        "Question": "trivial",
+        "Answer": "small",
+        "Options": ""
+    },
+    {
+        "Question": "critically",
+        "Answer": "fundamentally",
+        "Options": ""
+    },
+    {
+        "Question": "comparably",
+        "Answer": "similarly",
+        "Options": "equivalently"
+    },
+    {
+        "Question": "absorb",
+        "Answer": "appeal",
+        "Options": "learn/ take in"
+    },
+    {
+        "Question": "impetus",
+        "Answer": "motivation",
+        "Options": "incentive/ stimulus"
+    },
+    {
+        "Question": "congeal",
+        "Answer": "solidify",
+        "Options": ""
+    },
+    {
+        "Question": "accomplished",
+        "Answer": "achieved",
+        "Options": "skilled"
+    },
+    {
+        "Question": "at random",
+        "Answer": "without a definite pattern",
+        "Options": ""
+    },
+    {
+        "Question": "proximity",
+        "Answer": "closeness",
+        "Options": ""
+    },
+    {
+        "Question": "assured",
+        "Answer": "guaranteed",
+        "Options": ""
+    },
+    {
+        "Question": "accustomed to",
+        "Answer": "became used to",
+        "Options": ""
+    },
+    {
+        "Question": "apart from",
+        "Answer": "besides",
+        "Options": "except for"
+    },
+    {
+        "Question": "consult",
+        "Answer": "ask",
+        "Options": ""
+    },
+    {
+        "Question": "coated",
+        "Answer": "layer",
+        "Options": ""
+    },
+    {
+        "Question": "diversification",
+        "Answer": "emergence of many varieties",
+        "Options": ""
+    },
+    {
+        "Question": "impervious to",
+        "Answer": "unaffected by",
+        "Options": ""
+    },
+    {
+        "Question": "appealing",
+        "Answer": "attractive",
+        "Options": ""
+    },
+    {
+        "Question": "crushed",
+        "Answer": "ground",
+        "Options": ""
+    },
+    {
+        "Question": "moral",
+        "Answer": "lesson",
+        "Options": ""
+    },
+    {
+        "Question": "indispensable",
+        "Answer": "essential",
+        "Options": ""
+    },
+    {
+        "Question": "abort",
+        "Answer": "quit",
+        "Options": ""
+    },
+    {
+        "Question": "mandated",
+        "Answer": "required",
+        "Options": ""
+    },
+    {
+        "Question": "mundane",
+        "Answer": "ordinary",
+        "Options": ""
+    },
+    {
+        "Question": "evident",
+        "Answer": "obvious",
+        "Options": ""
+    },
+    {
+        "Question": "deceiving",
+        "Answer": "misleading",
+        "Options": ""
+    },
+    {
+        "Question": "discern",
+        "Answer": "identify",
+        "Options": ""
+    },
+    {
+        "Question": "convict",
+        "Answer": "sentence",
+        "Options": "condemn"
+    },
+    {
+        "Question": "commemorate",
+        "Answer": "celebrate",
+        "Options": ""
+    },
+    {
+        "Question": "constellation",
+        "Answer": "colleciton",
+        "Options": "combination"
+    },
+    {
+        "Question": "improve",
+        "Answer": "refine",
+        "Options": ""
+    },
+    {
+        "Question": "leftover",
+        "Answer": "remaining",
+        "Options": ""
+    },
+    {
+        "Question": "application",
+        "Answer": "use",
+        "Options": ""
+    },
+    {
+        "Question": "relics",
+        "Answer": "remains",
+        "Options": ""
+    },
+    {
+        "Question": "coupled with",
+        "Answer": "combined with",
+        "Options": "associated"
+    },
+    {
+        "Question": "decorating",
+        "Answer": "ornamental",
+        "Options": ""
+    },
+    {
+        "Question": "adjacent to",
+        "Answer": "next to/ nearby",
+        "Options": "neighboring"
+    },
+    {
+        "Question": "ethic",
+        "Answer": "set of moral principles",
+        "Options": ""
+    },
+    {
+        "Question": "dispersed",
+        "Answer": "scattered",
+        "Options": "spread"
+    },
+    {
+        "Question": "fractures",
+        "Answer": "cracks",
+        "Options": ""
+    },
+    {
+        "Question": "accomodate",
+        "Answer": "provide for",
+        "Options": ""
+    },
+    {
+        "Question": "mechanisms of natural selection",
+        "Answer": "ways natural selection works",
+        "Options": ""
+    },
+    {
+        "Question": "disgust",
+        "Answer": "distaste",
+        "Options": ""
+    },
+    {
+        "Question": "imitate",
+        "Answer": "copy",
+        "Options": ""
+    },
+    {
+        "Question": "raw",
+        "Answer": "uncooked",
+        "Options": ""
+    },
+    {
+        "Question": "anticipate",
+        "Answer": "expect",
+        "Options": ""
+    },
+    {
+        "Question": "approximating",
+        "Answer": "estimating",
+        "Options": "resembling"
+    },
+    {
+        "Question": "derive",
+        "Answer": "gain",
+        "Options": "obtain"
+    },
+    {
+        "Question": "overlie",
+        "Answer": "cover",
+        "Options": ""
+    },
+    {
+        "Question": "virtually",
+        "Answer": "almost/ nearly",
+        "Options": ""
+    },
+    {
+        "Question": "inherent",
+        "Answer": "built-in",
+        "Options": ""
+    },
+    {
+        "Question": "instigate",
+        "Answer": "caused",
+        "Options": ""
+    },
+    {
+        "Question": "precisely",
+        "Answer": "exactly",
+        "Options": "accurately"
+    },
+    {
+        "Question": "crest",
+        "Answer": "peak",
+        "Options": ""
+    },
+    {
+        "Question": "is usually accompanied by",
+        "Answer": "usually occurs together with",
+        "Options": ""
+    },
+    {
+        "Question": "dismantle",
+        "Answer": "demolish",
+        "Options": ""
+    },
+    {
+        "Question": "ingested",
+        "Answer": "eaten",
+        "Options": "swallowed"
+    }
+]

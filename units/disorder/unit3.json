@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "scattered",
+        "Answer": "widely separated",
+        "Options": ""
+    },
+    {
+        "Question": "option",
+        "Answer": "choice",
+        "Options": ""
+    },
+    {
+        "Question": "upper-class",
+        "Answer": "noble",
+        "Options": ""
+    },
+    {
+        "Question": "context",
+        "Answer": "environment",
+        "Options": ""
+    },
+    {
+        "Question": "progressive",
+        "Answer": "increasing",
+        "Options": ""
+    },
+    {
+        "Question": "verify",
+        "Answer": "establish the truth of",
+        "Options": ""
+    },
+    {
+        "Question": "endangered",
+        "Answer": "not abundant",
+        "Options": ""
+    },
+    {
+        "Question": "drawbacks",
+        "Answer": "disadvantages",
+        "Options": "problem"
+    },
+    {
+        "Question": "dwelling",
+        "Answer": "living",
+        "Options": ""
+    },
+    {
+        "Question": "shifts",
+        "Answer": "changes",
+        "Options": ""
+    },
+    {
+        "Question": "unique among",
+        "Answer": "different from all other",
+        "Options": ""
+    },
+    {
+        "Question": "abandoned",
+        "Answer": "no longer occupied",
+        "Options": "left alone/ give up"
+    },
+    {
+        "Question": "artificial",
+        "Answer": "human-made",
+        "Options": "not real"
+    },
+    {
+        "Question": "enrich",
+        "Answer": "enhance",
+        "Options": ""
+    },
+    {
+        "Question": "avenue",
+        "Answer": "means",
+        "Options": "methods"
+    },
+    {
+        "Question": "friction",
+        "Answer": "conflict",
+        "Options": ""
+    },
+    {
+        "Question": "concise",
+        "Answer": "simple",
+        "Options": ""
+    },
+    {
+        "Question": "disband",
+        "Answer": "dismiss",
+        "Options": ""
+    },
+    {
+        "Question": "resolve",
+        "Answer": "find a solution for",
+        "Options": ""
+    },
+    {
+        "Question": "trapped",
+        "Answer": "caught",
+        "Options": ""
+    },
+    {
+        "Question": "create",
+        "Answer": "invent",
+        "Options": ""
+    },
+    {
+        "Question": "analogous to",
+        "Answer": "similar",
+        "Options": ""
+    },
+    {
+        "Question": "conserve",
+        "Answer": "save",
+        "Options": ""
+    },
+    {
+        "Question": "severity",
+        "Answer": "harshness",
+        "Options": "seriousness"
+    },
+    {
+        "Question": "erroneous",
+        "Answer": "wrong",
+        "Options": ""
+    },
+    {
+        "Question": "burgeon",
+        "Answer": "expand",
+        "Options": ""
+    },
+    {
+        "Question": "collective",
+        "Answer": "group",
+        "Options": "gather"
+    },
+    {
+        "Question": "postulated",
+        "Answer": "hypothesized",
+        "Options": ""
+    },
+    {
+        "Question": "expanded",
+        "Answer": "was enlarged",
+        "Options": ""
+    },
+    {
+        "Question": "faded from",
+        "Answer": "disappeared from",
+        "Options": ""
+    },
+    {
+        "Question": "deliberations",
+        "Answer": "discussions",
+        "Options": ""
+    },
+    {
+        "Question": "consequence",
+        "Answer": "importance",
+        "Options": "result"
+    },
+    {
+        "Question": "bias",
+        "Answer": "prejudice",
+        "Options": ""
+    },
+    {
+        "Question": "comparative",
+        "Answer": "relative",
+        "Options": ""
+    },
+    {
+        "Question": "predominate",
+        "Answer": "are in the majority",
+        "Options": "principal/ mainly"
+    },
+    {
+        "Question": "severe",
+        "Answer": "extreme",
+        "Options": ""
+    },
+    {
+        "Question": "kept pace with",
+        "Answer": "matched the increase in",
+        "Options": ""
+    },
+    {
+        "Question": "dense",
+        "Answer": "thick",
+        "Options": "more crowded"
+    },
+    {
+        "Question": "perpetuated",
+        "Answer": "continued",
+        "Options": ""
+    },
+    {
+        "Question": "core",
+        "Answer": "center",
+        "Options": ""
+    },
+    {
+        "Question": "crisis",
+        "Answer": "critical situation",
+        "Options": "disturbance"
+    },
+    {
+        "Question": "includes",
+        "Answer": "contains",
+        "Options": ""
+    },
+    {
+        "Question": "exercised",
+        "Answer": "applied",
+        "Options": ""
+    },
+    {
+        "Question": "erratic",
+        "Answer": "unpredictable",
+        "Options": ""
+    },
+    {
+        "Question": "outdated",
+        "Answer": "old-fashioned",
+        "Options": ""
+    },
+    {
+        "Question": "evade",
+        "Answer": "escape",
+        "Options": ""
+    },
+    {
+        "Question": "commence",
+        "Answer": "begin",
+        "Options": ""
+    },
+    {
+        "Question": "capacity",
+        "Answer": "available storage space",
+        "Options": ""
+    },
+    {
+        "Question": "annual",
+        "Answer": "yearly",
+        "Options": ""
+    },
+    {
+        "Question": "formulated",
+        "Answer": "developed",
+        "Options": ""
+    },
+    {
+        "Question": "principally",
+        "Answer": "mainly",
+        "Options": "major"
+    },
+    {
+        "Question": "portable",
+        "Answer": "moveable",
+        "Options": ""
+    },
+    {
+        "Question": "hitherto",
+        "Answer": "at first",
+        "Options": ""
+    },
+    {
+        "Question": "dicimate",
+        "Answer": "destroy",
+        "Options": "destruct"
+    },
+    {
+        "Question": "margins",
+        "Answer": "edges",
+        "Options": ""
+    },
+    {
+        "Question": "mutually exclusive",
+        "Answer": "if one of the theories is true, then all the others must be false",
+        "Options": ""
+    },
+    {
+        "Question": "indefinitely",
+        "Answer": "without limit",
+        "Options": "endlessly"
+    },
+    {
+        "Question": "prestigious",
+        "Answer": "highly regarded",
+        "Options": ""
+    },
+    {
+        "Question": "unrivaled",
+        "Answer": "unequaled",
+        "Options": ""
+    },
+    {
+        "Question": "close",
+        "Answer": "careful",
+        "Options": ""
+    },
+    {
+        "Question": "dim",
+        "Answer": "decrease",
+        "Options": "weak"
+    },
+    {
+        "Question": "dangle",
+        "Answer": "hang",
+        "Options": ""
+    },
+    {
+        "Question": "afford",
+        "Answer": "offer",
+        "Options": "provide"
+    },
+    {
+        "Question": "intercourse",
+        "Answer": "exchange",
+        "Options": ""
+    },
+    {
+        "Question": "pondered",
+        "Answer": "thought about",
+        "Options": ""
+    },
+    {
+        "Question": "delight",
+        "Answer": "please",
+        "Options": "pleasure"
+    },
+    {
+        "Question": "splendid",
+        "Answer": "magnificent",
+        "Options": ""
+    },
+    {
+        "Question": "carried on",
+        "Answer": "continued",
+        "Options": ""
+    },
+    {
+        "Question": "eventually",
+        "Answer": "in the end",
+        "Options": "overtime/ at a later time"
+    },
+    {
+        "Question": "dwellers",
+        "Answer": "inhabitants",
+        "Options": ""
+    },
+    {
+        "Question": "inhibit",
+        "Answer": "restrict/ restrain",
+        "Options": "slow down"
+    },
+    {
+        "Question": "fused",
+        "Answer": "combined",
+        "Options": ""
+    },
+    {
+        "Question": "massive",
+        "Answer": "very large/ enormous",
+        "Options": ""
+    },
+    {
+        "Question": "costly",
+        "Answer": "expensive",
+        "Options": ""
+    },
+    {
+        "Question": "marked",
+        "Answer": "considerable",
+        "Options": "noticeable"
+    },
+    {
+        "Question": "elongate",
+        "Answer": "stretch",
+        "Options": ""
+    },
+    {
+        "Question": "harnessed",
+        "Answer": "utilized",
+        "Options": ""
+    },
+    {
+        "Question": "retarding",
+        "Answer": "slowing",
+        "Options": ""
+    },
+    {
+        "Question": "dynamic",
+        "Answer": "active",
+        "Options": ""
+    },
+    {
+        "Question": "evoke",
+        "Answer": "arouse",
+        "Options": "produce/ promote"
+    },
+    {
+        "Question": "antithesis",
+        "Answer": "opposite",
+        "Options": ""
+    },
+    {
+        "Question": "outbreak",
+        "Answer": "sudden increase",
+        "Options": ""
+    },
+    {
+        "Question": "foremost",
+        "Answer": "earliest",
+        "Options": ""
+    },
+    {
+        "Question": "celebrated",
+        "Answer": "famous",
+        "Options": ""
+    },
+    {
+        "Question": "mechanisms",
+        "Answer": "parts",
+        "Options": ""
+    },
+    {
+        "Question": "features",
+        "Answer": "aspects",
+        "Options": ""
+    },
+    {
+        "Question": "disguised",
+        "Answer": "hidden",
+        "Options": ""
+    },
+    {
+        "Question": "unaltered",
+        "Answer": "unchanged",
+        "Options": ""
+    },
+    {
+        "Question": "primordial",
+        "Answer": "present at the very beginning ",
+        "Options": ""
+    },
+    {
+        "Question": "diffuse",
+        "Answer": "spread",
+        "Options": "disperse"
+    },
+    {
+        "Question": "ultimately",
+        "Answer": "eventually/ finally",
+        "Options": "in the end"
+    },
+    {
+        "Question": "daring",
+        "Answer": "bold",
+        "Options": ""
+    },
+    {
+        "Question": "fostered",
+        "Answer": "encouraged",
+        "Options": ""
+    },
+    {
+        "Question": "accidental",
+        "Answer": "unintentional",
+        "Options": "unexpected"
+    },
+    {
+        "Question": "extensive",
+        "Answer": "large",
+        "Options": "widespread"
+    },
+    {
+        "Question": "accessible",
+        "Answer": "available/ reachable",
+        "Options": "easy to obtain"
+    },
+    {
+        "Question": "execute",
+        "Answer": "perform",
+        "Options": ""
+    },
+    {
+        "Question": "concentrate",
+        "Answer": "increase the density of population",
+        "Options": ""
+    },
+    {
+        "Question": "complement",
+        "Answer": "add to",
+        "Options": "supplement"
+    },
+    {
+        "Question": "demanded",
+        "Answer": "required",
+        "Options": "needed"
+    }
+]
