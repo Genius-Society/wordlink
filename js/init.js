@@ -41,5 +41,5 @@ function loadUnits(domain) {
 }
 
 $(function () {
-	loadUnits("./units/");
+	loadUnits("https://www.modelscope.cn/datasets/Genius-Society/wordlink/resolve/master/units/");
 });
