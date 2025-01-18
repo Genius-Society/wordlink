@@ -5,6 +5,7 @@
 [![hf](https://img.shields.io/badge/huggingface-wordlink-ffd21e.svg)](https://huggingface.co/datasets/Genius-Society/wordlink)
 [![ms](https://img.shields.io/badge/modelscope-wordlink-624aff.svg)](https://www.modelscope.cn/datasets/Genius-Society/wordlink)
 [![bilibili](https://img.shields.io/badge/bilibili-BV1yTrgYVEVK-fc8bab.svg)](https://www.bilibili.com/video/BV1yTrgYVEVK)
+[![missevan](https://img.shields.io/badge/missevan-80473-000000.svg)](https://www.missevan.com/mdrama/80473)
 
 托福单词同义词替换自测工具是一款专为托福考试备考者设计的学习辅助软件。该工具收录了托福考试中常见的同义词组，通过智能算法随机生成测试题目，帮助用户熟悉并掌握同义词替换技巧。用户可以通过该工具进行自我检测，找出词汇学习中的薄弱环节，并针对性地加强记忆和练习。托福单词同义词替换自测工具不仅能够提升备考效率，还能增强用户对词汇的深入理解，为托福考试做好充分准备。
 
