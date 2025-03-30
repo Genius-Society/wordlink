@@ -1,8 +1,8 @@
 # wordlink
 [![license](https://img.shields.io/github/license/Genius-Society/wordlink.svg)](https://github.com/Genius-Society/wordlink/blob/main/LICENSE)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/af35c2bc-06fe-4006-9f4a-2ef70b90947e/deploy-status)](https://wordlinks.netlify.app)
-[![hf](https://img.shields.io/badge/HuggingFace-wordlink-ffd21e.svg)](https://huggingface.co/datasets/Genius-Society/wordlink)
-[![ms](https://img.shields.io/badge/ModelScope-wordlink-624aff.svg)](https://www.modelscope.cn/datasets/Genius-Society/wordlink)
+[![hf](https://img.shields.io/badge/huggingface-wordlink-ffd21e.svg)](https://huggingface.co/datasets/Genius-Society/wordlink)
+[![ms](https://img.shields.io/badge/modelscope-wordlink-624aff.svg)](https://www.modelscope.cn/datasets/Genius-Society/wordlink)
 [![bili](https://img.shields.io/badge/bilibili-BV1yTrgYVEVK-fc8bab.svg)](https://www.bilibili.com/video/BV1yTrgYVEVK)
 [![missevan](https://img.shields.io/badge/missevan-80473-000000.svg)](https://www.missevan.com/mdrama/80473)
 
