@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "assessed",
+        "Answer": "evaluated",
+        "Options": ""
+    },
+    {
+        "Question": "contemplate",
+        "Answer": "consider",
+        "Options": ""
+    },
+    {
+        "Question": "legendary",
+        "Answer": "famous",
+        "Options": ""
+    },
+    {
+        "Question": "regulating",
+        "Answer": "controlling",
+        "Options": ""
+    },
+    {
+        "Question": "inventive",
+        "Answer": "creative",
+        "Options": ""
+    },
+    {
+        "Question": "delicately",
+        "Answer": "finely",
+        "Options": ""
+    },
+    {
+        "Question": "demise",
+        "Answer": "extinction",
+        "Options": ""
+    },
+    {
+        "Question": "elapsed",
+        "Answer": "passed",
+        "Options": ""
+    },
+    {
+        "Question": "debate",
+        "Answer": "argue",
+        "Options": ""
+    },
+    {
+        "Question": "beneficial",
+        "Answer": "helpful",
+        "Options": "advantageous"
+    },
+    {
+        "Question": "magnify",
+        "Answer": "increase",
+        "Options": ""
+    },
+    {
+        "Question": "cited",
+        "Answer": "mentioned",
+        "Options": "quoted/ referred to"
+    },
+    {
+        "Question": "rice-deficient portions",
+        "Answer": "the parts that do not have enough rice",
+        "Options": ""
+    },
+    {
+        "Question": "substantially",
+        "Answer": "largely",
+        "Options": "significant/ considerably"
+    },
+    {
+        "Question": "imminent",
+        "Answer": "about to happen",
+        "Options": ""
+    },
+    {
+        "Question": "distinctive",
+        "Answer": "characteristic",
+        "Options": ""
+    },
+    {
+        "Question": "devoid of",
+        "Answer": "short of/ lack of",
+        "Options": "without"
+    },
+    {
+        "Question": "huge",
+        "Answer": "vast",
+        "Options": ""
+    },
+    {
+        "Question": "paradoxically",
+        "Answer": "surprisingly",
+        "Options": ""
+    },
+    {
+        "Question": "remnants",
+        "Answer": "remainders",
+        "Options": "remains"
+    },
+    {
+        "Question": "counsel",
+        "Answer": "advise",
+        "Options": ""
+    },
+    {
+        "Question": "altered",
+        "Answer": "transformed",
+        "Options": "changed"
+    },
+    {
+        "Question": "casts off",
+        "Answer": "gets rid of",
+        "Options": ""
+    },
+    {
+        "Question": "uniformly",
+        "Answer": "consistently",
+        "Options": ""
+    },
+    {
+        "Question": "implements",
+        "Answer": "tools",
+        "Options": ""
+    },
+    {
+        "Question": "inflating",
+        "Answer": "enlarging",
+        "Options": ""
+    },
+    {
+        "Question": "not reached consensus on",
+        "Answer": "not agreed on",
+        "Options": ""
+    },
+    {
+        "Question": "prerequisite",
+        "Answer": "requirement",
+        "Options": ""
+    },
+    {
+        "Question": "optimal",
+        "Answer": "ideal",
+        "Options": ""
+    },
+    {
+        "Question": "skeptical",
+        "Answer": "doubtful",
+        "Options": ""
+    },
+    {
+        "Question": "portrayed",
+        "Answer": "depicted",
+        "Options": "represented"
+    },
+    {
+        "Question": "choose",
+        "Answer": "select",
+        "Options": ""
+    },
+    {
+        "Question": "remarkably close",
+        "Answer": "extremely close",
+        "Options": ""
+    },
+    {
+        "Question": "chief",
+        "Answer": "major",
+        "Options": ""
+    },
+    {
+        "Question": "fundamental",
+        "Answer": "basic",
+        "Options": ""
+    },
+    {
+        "Question": "properties",
+        "Answer": "characteristics",
+        "Options": ""
+    },
+    {
+        "Question": "kept in check",
+        "Answer": "prevented",
+        "Options": ""
+    },
+    {
+        "Question": "notably",
+        "Answer": "particularly",
+        "Options": "especially"
+    },
+    {
+        "Question": "embed",
+        "Answer": "enclose",
+        "Options": "insert"
+    },
+    {
+        "Question": "extraordinary",
+        "Answer": "exceptional",
+        "Options": ""
+    },
+    {
+        "Question": "consecutive",
+        "Answer": "successive",
+        "Options": ""
+    },
+    {
+        "Question": "gradual",
+        "Answer": "slow",
+        "Options": ""
+    },
+    {
+        "Question": "erected",
+        "Answer": "built/ construct",
+        "Options": "stand up"
+    },
+    {
+        "Question": "diversified",
+        "Answer": "varied",
+        "Options": ""
+    },
+    {
+        "Question": "contains",
+        "Answer": "includes",
+        "Options": ""
+    },
+    {
+        "Question": "considerable",
+        "Answer": "significant/ substantial",
+        "Options": "a large amount of"
+    },
+    {
+        "Question": "fleeing",
+        "Answer": "running away from",
+        "Options": ""
+    },
+    {
+        "Question": "persistent",
+        "Answer": "lasting",
+        "Options": "enduring"
+    },
+    {
+        "Question": "conventional",
+        "Answer": "usual",
+        "Options": "customary/ traditional"
+    },
+    {
+        "Question": "straightforward",
+        "Answer": "simple",
+        "Options": ""
+    },
+    {
+        "Question": "with no warning",
+        "Answer": "without any indication beforehand",
+        "Options": ""
+    },
+    {
+        "Question": "credible",
+        "Answer": "believable",
+        "Options": ""
+    },
+    {
+        "Question": "regarded",
+        "Answer": "considered",
+        "Options": ""
+    },
+    {
+        "Question": "legible",
+        "Answer": "recognizable",
+        "Options": ""
+    },
+    {
+        "Question": "burdensome",
+        "Answer": "difficult",
+        "Options": ""
+    },
+    {
+        "Question": "adherent",
+        "Answer": "supporter",
+        "Options": "advocate"
+    },
+    {
+        "Question": "embellishing",
+        "Answer": "making more attractive",
+        "Options": ""
+    },
+    {
+        "Question": "match",
+        "Answer": "equal",
+        "Options": "agree with"
+    },
+    {
+        "Question": "superficially",
+        "Answer": "without deeper analysis",
+        "Options": ""
+    },
+    {
+        "Question": "as a rule",
+        "Answer": "in general",
+        "Options": ""
+    },
+    {
+        "Question": "emergence",
+        "Answer": "rise",
+        "Options": "appearance"
+    },
+    {
+        "Question": "surge",
+        "Answer": "sudden increase",
+        "Options": ""
+    },
+    {
+        "Question": "impose on",
+        "Answer": "place on",
+        "Options": ""
+    },
+    {
+        "Question": "bustling",
+        "Answer": "busy",
+        "Options": "lively"
+    },
+    {
+        "Question": "design",
+        "Answer": "create",
+        "Options": ""
+    },
+    {
+        "Question": "camouflage",
+        "Answer": "disguise/ decorate",
+        "Options": "blend with background"
+    },
+    {
+        "Question": "unsubstantiated",
+        "Answer": "unverified",
+        "Options": ""
+    },
+    {
+        "Question": "prodigious",
+        "Answer": "massive",
+        "Options": ""
+    },
+    {
+        "Question": "efface",
+        "Answer": "eliminate",
+        "Options": ""
+    },
+    {
+        "Question": "appropriate",
+        "Answer": "suitable",
+        "Options": ""
+    },
+    {
+        "Question": "likewise",
+        "Answer": "similarly",
+        "Options": ""
+    },
+    {
+        "Question": "annihilate",
+        "Answer": "completely remove",
+        "Options": "destroy"
+    },
+    {
+        "Question": "conceiving",
+        "Answer": "considering",
+        "Options": ""
+    },
+    {
+        "Question": "expanse",
+        "Answer": "area",
+        "Options": ""
+    },
+    {
+        "Question": "antagonist",
+        "Answer": "competitor",
+        "Options": "rival"
+    },
+    {
+        "Question": "objection",
+        "Answer": "arguments in opposition",
+        "Options": ""
+    },
+    {
+        "Question": "converge on",
+        "Answer": "meet at",
+        "Options": ""
+    },
+    {
+        "Question": "apparently",
+        "Answer": "seemingly/ obviously",
+        "Options": "clearly seen in"
+    },
+    {
+        "Question": "advantageous",
+        "Answer": "beneficial",
+        "Options": ""
+    },
+    {
+        "Question": "overtaken",
+        "Answer": "surpassed",
+        "Options": ""
+    },
+    {
+        "Question": "defining",
+        "Answer": "important",
+        "Options": ""
+    },
+    {
+        "Question": "fluid",
+        "Answer": "liquid",
+        "Options": ""
+    },
+    {
+        "Question": "similarly",
+        "Answer": "likewise",
+        "Options": ""
+    },
+    {
+        "Question": "revised",
+        "Answer": "changed",
+        "Options": ""
+    },
+    {
+        "Question": "crawl",
+        "Answer": "move",
+        "Options": ""
+    },
+    {
+        "Question": "courses through",
+        "Answer": "runs through",
+        "Options": ""
+    },
+    {
+        "Question": "employ",
+        "Answer": "use",
+        "Options": ""
+    },
+    {
+        "Question": "impulse",
+        "Answer": "basic motive",
+        "Options": ""
+    },
+    {
+        "Question": "ambiguities",
+        "Answer": "can be interpreted in more than one way",
+        "Options": ""
+    },
+    {
+        "Question": "extol",
+        "Answer": "praise",
+        "Options": ""
+    },
+    {
+        "Question": "assistance",
+        "Answer": "help",
+        "Options": "aid"
+    },
+    {
+        "Question": "ease",
+        "Answer": "facilitate",
+        "Options": ""
+    },
+    {
+        "Question": "colossal",
+        "Answer": "enormous",
+        "Options": ""
+    },
+    {
+        "Question": "confined",
+        "Answer": "limited to",
+        "Options": "restricted"
+    },
+    {
+        "Question": "countered",
+        "Answer": "argued back",
+        "Options": "acting against"
+    },
+    {
+        "Question": "pronouncement",
+        "Answer": "statement",
+        "Options": ""
+    },
+    {
+        "Question": "enabling",
+        "Answer": "allowing",
+        "Options": ""
+    },
+    {
+        "Question": "in essence",
+        "Answer": "basically",
+        "Options": ""
+    },
+    {
+        "Question": "embody",
+        "Answer": "incarnate",
+        "Options": ""
+    },
+    {
+        "Question": "modest",
+        "Answer": "relatively small",
+        "Options": "moderate"
+    }
+]

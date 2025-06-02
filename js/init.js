@@ -30,5 +30,5 @@ function loadUnits(domain) {
 }
 
 $(function () {
-	loadUnits("https://www.modelscope.cn/datasets/Genius-Society/wordlink/resolve/master/units/");
+	loadUnits("./src/");
 });

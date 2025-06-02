@@ -3,7 +3,7 @@ function wordlist(ord, list) {
 	fl = 20;
 	QA = new Array();
 	let k = 0;
-	let domain = "https://www.modelscope.cn/datasets/Genius-Society/wordlink/resolve/master/units/";
+	let domain = "./src/";
 	let jurl = domain + (ord ? "order/" : "disorder/") + list + ".json";
 	$.ajaxSettings.async = false;
 	$.getJSON(jurl, function (data) {

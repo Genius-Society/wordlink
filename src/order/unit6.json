@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "extant",
+        "Answer": "remaining",
+        "Options": "existing"
+    },
+    {
+        "Question": "extended",
+        "Answer": "long",
+        "Options": "lengthened/ stretch"
+    },
+    {
+        "Question": "extensive",
+        "Answer": "large",
+        "Options": "widespread"
+    },
+    {
+        "Question": "extracted",
+        "Answer": "removed",
+        "Options": "taken out of"
+    },
+    {
+        "Question": "evade",
+        "Answer": "escape",
+        "Options": ""
+    },
+    {
+        "Question": "evaluate",
+        "Answer": "judge",
+        "Options": ""
+    },
+    {
+        "Question": "eventually",
+        "Answer": "in the end",
+        "Options": "overtime/ at a later time"
+    },
+    {
+        "Question": "ever-shifting",
+        "Answer": "constant changing",
+        "Options": ""
+    },
+    {
+        "Question": "evident",
+        "Answer": "obvious",
+        "Options": ""
+    },
+    {
+        "Question": "evoke",
+        "Answer": "arouse",
+        "Options": "produce/ promote"
+    },
+    {
+        "Question": "evolve",
+        "Answer": "developed",
+        "Options": ""
+    },
+    {
+        "Question": "extol",
+        "Answer": "praise",
+        "Options": ""
+    },
+    {
+        "Question": "extraneous",
+        "Answer": "from outside",
+        "Options": ""
+    },
+    {
+        "Question": "extraordinary",
+        "Answer": "exceptional",
+        "Options": ""
+    },
+    {
+        "Question": "exude",
+        "Answer": "give off",
+        "Options": "release"
+    },
+    {
+        "Question": "facilitated",
+        "Answer": "made easier",
+        "Options": ""
+    },
+    {
+        "Question": "faded from",
+        "Answer": "disappeared from",
+        "Options": ""
+    },
+    {
+        "Question": "faithful",
+        "Answer": "exact",
+        "Options": "accurate"
+    },
+    {
+        "Question": "fastidious",
+        "Answer": "demanding",
+        "Options": ""
+    },
+    {
+        "Question": "favored",
+        "Answer": "preferred",
+        "Options": ""
+    },
+    {
+        "Question": "feasible",
+        "Answer": "practical",
+        "Options": "achievable"
+    },
+    {
+        "Question": "feat",
+        "Answer": "remarkable achievement",
+        "Options": ""
+    },
+    {
+        "Question": "features",
+        "Answer": "aspects",
+        "Options": ""
+    },
+    {
+        "Question": "first rank",
+        "Answer": "highest quality",
+        "Options": ""
+    },
+    {
+        "Question": "flaw",
+        "Answer": "fault",
+        "Options": "incorrect"
+    },
+    {
+        "Question": "fleeing",
+        "Answer": "running away from",
+        "Options": ""
+    },
+    {
+        "Question": "flexible",
+        "Answer": "adaptable",
+        "Options": "bendable"
+    },
+    {
+        "Question": "flourished",
+        "Answer": "prospered",
+        "Options": "succeed"
+    },
+    {
+        "Question": "fluctuations",
+        "Answer": "variations",
+        "Options": ""
+    },
+    {
+        "Question": "fluid",
+        "Answer": "liquid",
+        "Options": ""
+    },
+    {
+        "Question": "focus",
+        "Answer": "concentrate",
+        "Options": ""
+    },
+    {
+        "Question": "foremost",
+        "Answer": "earliest",
+        "Options": ""
+    },
+    {
+        "Question": "formulated",
+        "Answer": "developed",
+        "Options": ""
+    },
+    {
+        "Question": "forward-looking",
+        "Answer": "progressive",
+        "Options": ""
+    },
+    {
+        "Question": "fostered",
+        "Answer": "encouraged",
+        "Options": ""
+    },
+    {
+        "Question": "foul",
+        "Answer": "pollute",
+        "Options": ""
+    },
+    {
+        "Question": "fractures",
+        "Answer": "cracks",
+        "Options": ""
+    },
+    {
+        "Question": "fragile",
+        "Answer": "easily damaged",
+        "Options": "delicate"
+    },
+    {
+        "Question": "freeing",
+        "Answer": "releasing",
+        "Options": ""
+    },
+    {
+        "Question": "friction",
+        "Answer": "conflict",
+        "Options": ""
+    },
+    {
+        "Question": "frigid",
+        "Answer": "cold",
+        "Options": ""
+    },
+    {
+        "Question": "fringes",
+        "Answer": "borders",
+        "Options": ""
+    },
+    {
+        "Question": "fuels",
+        "Answer": "provides energy  for",
+        "Options": ""
+    },
+    {
+        "Question": "function",
+        "Answer": "purpose",
+        "Options": ""
+    },
+    {
+        "Question": "fundamental",
+        "Answer": "basic",
+        "Options": ""
+    },
+    {
+        "Question": "further",
+        "Answer": "additionally",
+        "Options": ""
+    },
+    {
+        "Question": "furthermore",
+        "Answer": "in addition",
+        "Options": ""
+    },
+    {
+        "Question": "fused",
+        "Answer": "combined",
+        "Options": ""
+    },
+    {
+        "Question": "gains",
+        "Answer": "increases",
+        "Options": ""
+    },
+    {
+        "Question": "garment",
+        "Answer": "article of clothing",
+        "Options": ""
+    },
+    {
+        "Question": "gather some momentum",
+        "Answer": "made progress",
+        "Options": ""
+    },
+    {
+        "Question": "generated",
+        "Answer": "produced",
+        "Options": ""
+    },
+    {
+        "Question": "giant",
+        "Answer": "huge",
+        "Options": ""
+    },
+    {
+        "Question": "gifted",
+        "Answer": "talented",
+        "Options": ""
+    },
+    {
+        "Question": "give rise to",
+        "Answer": "produce",
+        "Options": ""
+    },
+    {
+        "Question": "gradual",
+        "Answer": "slow",
+        "Options": ""
+    },
+    {
+        "Question": "graphically",
+        "Answer": "vividly",
+        "Options": ""
+    },
+    {
+        "Question": "gratify",
+        "Answer": "satisfy",
+        "Options": ""
+    },
+    {
+        "Question": "guarantee",
+        "Answer": "ensure",
+        "Options": ""
+    },
+    {
+        "Question": "habits",
+        "Answer": "usual behaviors",
+        "Options": ""
+    },
+    {
+        "Question": "had priority",
+        "Answer": "had advantages",
+        "Options": ""
+    },
+    {
+        "Question": "halted",
+        "Answer": "stopped",
+        "Options": ""
+    },
+    {
+        "Question": "harnessed",
+        "Answer": "utilized",
+        "Options": ""
+    },
+    {
+        "Question": "harsh",
+        "Answer": "severe",
+        "Options": ""
+    },
+    {
+        "Question": "hastened",
+        "Answer": "rushed",
+        "Options": "accelerated"
+    },
+    {
+        "Question": "heightened",
+        "Answer": "increased",
+        "Options": ""
+    },
+    {
+        "Question": "hemispheres",
+        "Answer": "sides",
+        "Options": ""
+    },
+    {
+        "Question": "hence",
+        "Answer": "therefore",
+        "Options": ""
+    },
+    {
+        "Question": "henceforth",
+        "Answer": "from this time on",
+        "Options": ""
+    },
+    {
+        "Question": "heterogeneous",
+        "Answer": "varied",
+        "Options": ""
+    },
+    {
+        "Question": "hierarchical",
+        "Answer": "having several levels of authority",
+        "Options": ""
+    },
+    {
+        "Question": "highlights",
+        "Answer": "emphasizes",
+        "Options": ""
+    },
+    {
+        "Question": "hints",
+        "Answer": "clues",
+        "Options": ""
+    },
+    {
+        "Question": "his imitator",
+        "Answer": "the people who copied hime",
+        "Options": ""
+    },
+    {
+        "Question": "hitherto",
+        "Answer": "at first",
+        "Options": ""
+    },
+    {
+        "Question": "homogenous",
+        "Answer": "uniform",
+        "Options": ""
+    },
+    {
+        "Question": "huge",
+        "Answer": "vast",
+        "Options": ""
+    },
+    {
+        "Question": "humble",
+        "Answer": "modest",
+        "Options": ""
+    },
+    {
+        "Question": "identifiable",
+        "Answer": "recognizable",
+        "Options": ""
+    },
+    {
+        "Question": "illuminates",
+        "Answer": "lights",
+        "Options": ""
+    },
+    {
+        "Question": "imaginative",
+        "Answer": "creative",
+        "Options": ""
+    },
+    {
+        "Question": "imitate",
+        "Answer": "copy",
+        "Options": ""
+    },
+    {
+        "Question": "imminent",
+        "Answer": "about to happen",
+        "Options": ""
+    },
+    {
+        "Question": "immobile",
+        "Answer": "motionless",
+        "Options": ""
+    },
+    {
+        "Question": "impeded",
+        "Answer": "restricted",
+        "Options": ""
+    },
+    {
+        "Question": "impediment",
+        "Answer": "obstruction",
+        "Options": ""
+    },
+    {
+        "Question": "impervious to",
+        "Answer": "unaffected by",
+        "Options": ""
+    },
+    {
+        "Question": "implements",
+        "Answer": "tools",
+        "Options": ""
+    },
+    {
+        "Question": "impetus",
+        "Answer": "motivation",
+        "Options": "incentive/ stimulus"
+    },
+    {
+        "Question": "implications",
+        "Answer": "consequences",
+        "Options": ""
+    },
+    {
+        "Question": "impractical",
+        "Answer": "unrealistic",
+        "Options": ""
+    },
+    {
+        "Question": "impose on",
+        "Answer": "place on",
+        "Options": ""
+    },
+    {
+        "Question": "improve",
+        "Answer": "refine",
+        "Options": ""
+    },
+    {
+        "Question": "impulse",
+        "Answer": "basic motive",
+        "Options": ""
+    },
+    {
+        "Question": "inaccessible",
+        "Answer": "unreachable",
+        "Options": ""
+    },
+    {
+        "Question": "in addition to",
+        "Answer": "furthermore",
+        "Options": ""
+    },
+    {
+        "Question": "inadequate",
+        "Answer": "deficient",
+        "Options": ""
+    },
+    {
+        "Question": "inadvertently",
+        "Answer": "unintentionally",
+        "Options": ""
+    },
+    {
+        "Question": "incentives",
+        "Answer": "motivation",
+        "Options": ""
+    },
+    {
+        "Question": "inclination",
+        "Answer": "preferences",
+        "Options": ""
+    }
+]

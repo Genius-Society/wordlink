@@ -1,0 +1,502 @@
+[
+    {
+        "Question": "zenith",
+        "Answer": "peak",
+        "Options": ""
+    },
+    {
+        "Question": "seek",
+        "Answer": "attempt",
+        "Options": ""
+    },
+    {
+        "Question": "environment",
+        "Answer": "setting",
+        "Options": ""
+    },
+    {
+        "Question": "appraisal",
+        "Answer": "evaluation",
+        "Options": ""
+    },
+    {
+        "Question": "subjected to",
+        "Answer": "exposed to",
+        "Options": ""
+    },
+    {
+        "Question": "redundancy",
+        "Answer": "duplication",
+        "Options": ""
+    },
+    {
+        "Question": "aware of",
+        "Answer": "familiar with",
+        "Options": ""
+    },
+    {
+        "Question": "ratio",
+        "Answer": "proportion",
+        "Options": ""
+    },
+    {
+        "Question": "endowing",
+        "Answer": "providing",
+        "Options": ""
+    },
+    {
+        "Question": "efforts",
+        "Answer": "attempts",
+        "Options": ""
+    },
+    {
+        "Question": "strictly",
+        "Answer": "exclusively",
+        "Options": ""
+    },
+    {
+        "Question": "periodically",
+        "Answer": "regularly",
+        "Options": ""
+    },
+    {
+        "Question": "concealed",
+        "Answer": "hidden",
+        "Options": "covered"
+    },
+    {
+        "Question": "fuels",
+        "Answer": "provides energy  for",
+        "Options": ""
+    },
+    {
+        "Question": "criticize",
+        "Answer": "debate",
+        "Options": "find fault"
+    },
+    {
+        "Question": "ritual",
+        "Answer": "ceremonial",
+        "Options": ""
+    },
+    {
+        "Question": "identifiable",
+        "Answer": "recognizable",
+        "Options": ""
+    },
+    {
+        "Question": "ambivalent",
+        "Answer": "mixed",
+        "Options": ""
+    },
+    {
+        "Question": "declining",
+        "Answer": "weakening",
+        "Options": ""
+    },
+    {
+        "Question": "keenly",
+        "Answer": "deeply",
+        "Options": ""
+    },
+    {
+        "Question": "decisive",
+        "Answer": "determining",
+        "Options": "definite"
+    },
+    {
+        "Question": "decide",
+        "Answer": "determine",
+        "Options": ""
+    },
+    {
+        "Question": "complaint",
+        "Answer": "protest",
+        "Options": ""
+    },
+    {
+        "Question": "related",
+        "Answer": "connected",
+        "Options": ""
+    },
+    {
+        "Question": "illuminates",
+        "Answer": "lights",
+        "Options": ""
+    },
+    {
+        "Question": "exude",
+        "Answer": "give off",
+        "Options": "release"
+    },
+    {
+        "Question": "guarantee",
+        "Answer": "ensure",
+        "Options": ""
+    },
+    {
+        "Question": "asset",
+        "Answer": "advantage",
+        "Options": ""
+    },
+    {
+        "Question": "readily",
+        "Answer": "easily",
+        "Options": ""
+    },
+    {
+        "Question": "cue",
+        "Answer": "hint",
+        "Options": "clue"
+    },
+    {
+        "Question": "chronic",
+        "Answer": "inveterate",
+        "Options": "habitual/ persistent"
+    },
+    {
+        "Question": "expansive",
+        "Answer": "large",
+        "Options": ""
+    },
+    {
+        "Question": "enthusiasitc",
+        "Answer": "eager",
+        "Options": ""
+    },
+    {
+        "Question": "countervail",
+        "Answer": "oppose",
+        "Options": "compensate"
+    },
+    {
+        "Question": "gifted",
+        "Answer": "talented",
+        "Options": ""
+    },
+    {
+        "Question": "stagnation",
+        "Answer": "lack of growth",
+        "Options": ""
+    },
+    {
+        "Question": "endeavors",
+        "Answer": "efforts",
+        "Options": ""
+    },
+    {
+        "Question": "curious",
+        "Answer": "strange",
+        "Options": ""
+    },
+    {
+        "Question": "confront",
+        "Answer": "face",
+        "Options": ""
+    },
+    {
+        "Question": "tangled",
+        "Answer": "twisted together",
+        "Options": ""
+    },
+    {
+        "Question": "allocation",
+        "Answer": "distribution",
+        "Options": ""
+    },
+    {
+        "Question": "disorder",
+        "Answer": "anarchy",
+        "Options": ""
+    },
+    {
+        "Question": "pervasive",
+        "Answer": "widespread",
+        "Options": ""
+    },
+    {
+        "Question": "admit",
+        "Answer": "let in",
+        "Options": ""
+    },
+    {
+        "Question": "attachment to",
+        "Answer": "preference to",
+        "Options": ""
+    },
+    {
+        "Question": "boom",
+        "Answer": "expansion",
+        "Options": ""
+    },
+    {
+        "Question": "pursue",
+        "Answer": "practice",
+        "Options": ""
+    },
+    {
+        "Question": "abstract",
+        "Answer": "not concrete",
+        "Options": ""
+    },
+    {
+        "Question": "disentangle",
+        "Answer": "disband",
+        "Options": ""
+    },
+    {
+        "Question": "potential",
+        "Answer": "possible",
+        "Options": ""
+    },
+    {
+        "Question": "traditionally",
+        "Answer": "originally",
+        "Options": ""
+    },
+    {
+        "Question": "homogenous",
+        "Answer": "uniform",
+        "Options": ""
+    },
+    {
+        "Question": "dissipate",
+        "Answer": "disperse",
+        "Options": ""
+    },
+    {
+        "Question": "verging",
+        "Answer": "bordering",
+        "Options": "confirming"
+    },
+    {
+        "Question": "status",
+        "Answer": "importance",
+        "Options": ""
+    },
+    {
+        "Question": "adept",
+        "Answer": "skillful",
+        "Options": ""
+    },
+    {
+        "Question": "complex",
+        "Answer": "elaborate/ complicated",
+        "Options": "system/ made things more difficult"
+    },
+    {
+        "Question": "chaotic",
+        "Answer": "disorganized",
+        "Options": ""
+    },
+    {
+        "Question": "first rank",
+        "Answer": "highest quality",
+        "Options": ""
+    },
+    {
+        "Question": "counterpart",
+        "Answer": "equivalent",
+        "Options": "similitude"
+    },
+    {
+        "Question": "era",
+        "Answer": "period",
+        "Options": ""
+    },
+    {
+        "Question": "contends",
+        "Answer": "argues",
+        "Options": "dispute"
+    },
+    {
+        "Question": "congestion",
+        "Answer": "overcrowding",
+        "Options": ""
+    },
+    {
+        "Question": "devour",
+        "Answer": "eat",
+        "Options": ""
+    },
+    {
+        "Question": "extracted",
+        "Answer": "removed",
+        "Options": "taken out of"
+    },
+    {
+        "Question": "outlying",
+        "Answer": "far from the center",
+        "Options": ""
+    },
+    {
+        "Question": "article",
+        "Answer": "item/ object",
+        "Options": ""
+    },
+    {
+        "Question": "alliances",
+        "Answer": "partnerships",
+        "Options": ""
+    },
+    {
+        "Question": "mortality",
+        "Answer": "death",
+        "Options": ""
+    },
+    {
+        "Question": "deter ",
+        "Answer": "stop",
+        "Options": ""
+    },
+    {
+        "Question": "attendant",
+        "Answer": "accompanying",
+        "Options": ""
+    },
+    {
+        "Question": "consistent",
+        "Answer": "uniform",
+        "Options": "regular"
+    },
+    {
+        "Question": "swift",
+        "Answer": "fast",
+        "Options": ""
+    },
+    {
+        "Question": "indiscriminate",
+        "Answer": "random",
+        "Options": ""
+    },
+    {
+        "Question": "inclination",
+        "Answer": "preferences",
+        "Options": ""
+    },
+    {
+        "Question": "underestimate",
+        "Answer": "underrate",
+        "Options": ""
+    },
+    {
+        "Question": "plausible",
+        "Answer": "believable",
+        "Options": ""
+    },
+    {
+        "Question": "cope",
+        "Answer": "adapt/ deal with",
+        "Options": "manage/ handle"
+    },
+    {
+        "Question": "provided that",
+        "Answer": "as long as",
+        "Options": ""
+    },
+    {
+        "Question": "suitable",
+        "Answer": "appropriate",
+        "Options": ""
+    },
+    {
+        "Question": "appreciated",
+        "Answer": "approved",
+        "Options": ""
+    },
+    {
+        "Question": "chisel",
+        "Answer": "carve",
+        "Options": ""
+    },
+    {
+        "Question": "discrete",
+        "Answer": "separate",
+        "Options": ""
+    },
+    {
+        "Question": "architecture",
+        "Answer": "structure",
+        "Options": ""
+    },
+    {
+        "Question": "abundant",
+        "Answer": "plentiful/ substantial",
+        "Options": "ample/ affluent"
+    },
+    {
+        "Question": "elevate",
+        "Answer": "raise",
+        "Options": ""
+    },
+    {
+        "Question": "puncture",
+        "Answer": "pierce",
+        "Options": ""
+    },
+    {
+        "Question": "absurd",
+        "Answer": "ridiculous",
+        "Options": ""
+    },
+    {
+        "Question": "painstakingly",
+        "Answer": "with great effort",
+        "Options": ""
+    },
+    {
+        "Question": "expediency",
+        "Answer": "advantage",
+        "Options": "convenience"
+    },
+    {
+        "Question": "twenty or so",
+        "Answer": "roughly twenty",
+        "Options": ""
+    },
+    {
+        "Question": "promote",
+        "Answer": "encourage",
+        "Options": ""
+    },
+    {
+        "Question": "gains",
+        "Answer": "increases",
+        "Options": ""
+    },
+    {
+        "Question": "flourished",
+        "Answer": "prospered",
+        "Options": "succeed"
+    },
+    {
+        "Question": "agile",
+        "Answer": "astute/ quick and active",
+        "Options": "clever"
+    },
+    {
+        "Question": "prolonged",
+        "Answer": "extended",
+        "Options": "lengthy"
+    },
+    {
+        "Question": "pointed out",
+        "Answer": "stated",
+        "Options": ""
+    },
+    {
+        "Question": "meager",
+        "Answer": "very low",
+        "Options": "thin"
+    },
+    {
+        "Question": "intergrated",
+        "Answer": "combined",
+        "Options": ""
+    },
+    {
+        "Question": "oversaw",
+        "Answer": "supervised",
+        "Options": ""
+    }
+]

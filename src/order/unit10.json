@@ -1,0 +1,467 @@
+[
+    {
+        "Question": "solely",
+        "Answer": "only",
+        "Options": ""
+    },
+    {
+        "Question": "so much for",
+        "Answer": "that is enough about",
+        "Options": ""
+    },
+    {
+        "Question": "sovereign",
+        "Answer": "master",
+        "Options": ""
+    },
+    {
+        "Question": "sought",
+        "Answer": "looked for",
+        "Options": ""
+    },
+    {
+        "Question": "speculates",
+        "Answer": "puts forward as possibility",
+        "Options": ""
+    },
+    {
+        "Question": "spheres",
+        "Answer": "areas",
+        "Options": ""
+    },
+    {
+        "Question": "splendid",
+        "Answer": "magnificent",
+        "Options": ""
+    },
+    {
+        "Question": "sponsored",
+        "Answer": "supported",
+        "Options": ""
+    },
+    {
+        "Question": "stagnation",
+        "Answer": "lack of growth",
+        "Options": ""
+    },
+    {
+        "Question": "static",
+        "Answer": "unchanging",
+        "Options": ""
+    },
+    {
+        "Question": "stationary",
+        "Answer": "unmoving/ nonmoving",
+        "Options": ""
+    },
+    {
+        "Question": "status",
+        "Answer": "importance",
+        "Options": ""
+    },
+    {
+        "Question": "steadily",
+        "Answer": "continuously",
+        "Options": "constantly"
+    },
+    {
+        "Question": "strictly",
+        "Answer": "exclusively",
+        "Options": ""
+    },
+    {
+        "Question": "striking",
+        "Answer": "noteworthy/ attention getting",
+        "Options": "noticeable"
+    },
+    {
+        "Question": "straightforward",
+        "Answer": "simple",
+        "Options": ""
+    },
+    {
+        "Question": "stunning",
+        "Answer": "impressive",
+        "Options": ""
+    },
+    {
+        "Question": "subdue",
+        "Answer": "defeat",
+        "Options": ""
+    },
+    {
+        "Question": "subjected to",
+        "Answer": "exposed to",
+        "Options": ""
+    },
+    {
+        "Question": "subsequent",
+        "Answer": "later",
+        "Options": "following in time"
+    },
+    {
+        "Question": "subsistence",
+        "Answer": "survival",
+        "Options": ""
+    },
+    {
+        "Question": "substantially",
+        "Answer": "largely",
+        "Options": "significant/ considerably"
+    },
+    {
+        "Question": "substantiated",
+        "Answer": "confirmed",
+        "Options": ""
+    },
+    {
+        "Question": "sufficient",
+        "Answer": "enough",
+        "Options": "adequate"
+    },
+    {
+        "Question": "suitable",
+        "Answer": "appropriate",
+        "Options": ""
+    },
+    {
+        "Question": "superficially",
+        "Answer": "without deeper analysis",
+        "Options": ""
+    },
+    {
+        "Question": "superseded",
+        "Answer": "replaced",
+        "Options": ""
+    },
+    {
+        "Question": "suppress",
+        "Answer": "stop by force",
+        "Options": ""
+    },
+    {
+        "Question": "surge",
+        "Answer": "sudden increase",
+        "Options": ""
+    },
+    {
+        "Question": "surpass",
+        "Answer": "exceed",
+        "Options": "be higher than"
+    },
+    {
+        "Question": "surpluses",
+        "Answer": "extra goods",
+        "Options": ""
+    },
+    {
+        "Question": "susceptible to",
+        "Answer": "likely to be affected by",
+        "Options": ""
+    },
+    {
+        "Question": "suspended",
+        "Answer": "hung",
+        "Options": ""
+    },
+    {
+        "Question": "sustain",
+        "Answer": "support/ maintain",
+        "Options": "continue/ uninterrupted"
+    },
+    {
+        "Question": "swift",
+        "Answer": "fast",
+        "Options": ""
+    },
+    {
+        "Question": "switch on",
+        "Answer": "activate",
+        "Options": ""
+    },
+    {
+        "Question": "tactic",
+        "Answer": "strategy",
+        "Options": ""
+    },
+    {
+        "Question": "take precedence over",
+        "Answer": "have greater importance than",
+        "Options": ""
+    },
+    {
+        "Question": "tangled",
+        "Answer": "twisted together",
+        "Options": ""
+    },
+    {
+        "Question": "tangible",
+        "Answer": "physical",
+        "Options": ""
+    },
+    {
+        "Question": "target",
+        "Answer": "objective",
+        "Options": ""
+    },
+    {
+        "Question": "termed",
+        "Answer": "called",
+        "Options": "known as"
+    },
+    {
+        "Question": "terrestrial",
+        "Answer": "land",
+        "Options": ""
+    },
+    {
+        "Question": "the application of waterpower",
+        "Answer": "the uses to which waterpower was put",
+        "Options": ""
+    },
+    {
+        "Question": "therefore",
+        "Answer": "as a result",
+        "Options": ""
+    },
+    {
+        "Question": "transform",
+        "Answer": "change",
+        "Options": "transition"
+    },
+    {
+        "Question": "traumatic",
+        "Answer": "upsetting",
+        "Options": "highly stressful"
+    },
+    {
+        "Question": "tremendous",
+        "Answer": "enormous",
+        "Options": "huge"
+    },
+    {
+        "Question": "thus",
+        "Answer": "consequently",
+        "Options": ""
+    },
+    {
+        "Question": "traditionally",
+        "Answer": "originally",
+        "Options": ""
+    },
+    {
+        "Question": "trapped",
+        "Answer": "caught",
+        "Options": ""
+    },
+    {
+        "Question": "trappings",
+        "Answer": "decorations",
+        "Options": ""
+    },
+    {
+        "Question": "trend",
+        "Answer": "tendency",
+        "Options": ""
+    },
+    {
+        "Question": "triggered",
+        "Answer": "caused",
+        "Options": ""
+    },
+    {
+        "Question": "trivial",
+        "Answer": "small",
+        "Options": ""
+    },
+    {
+        "Question": "turbulent",
+        "Answer": "violent",
+        "Options": ""
+    },
+    {
+        "Question": "twenty or so",
+        "Answer": "roughly twenty",
+        "Options": ""
+    },
+    {
+        "Question": "ultimately",
+        "Answer": "eventually/ finally",
+        "Options": "in the end"
+    },
+    {
+        "Question": "unaltered",
+        "Answer": "unchanged",
+        "Options": ""
+    },
+    {
+        "Question": "unanticipated",
+        "Answer": "not expected",
+        "Options": ""
+    },
+    {
+        "Question": "underestimate",
+        "Answer": "underrate",
+        "Options": ""
+    },
+    {
+        "Question": "underexpertedly",
+        "Answer": "surprisingly",
+        "Options": ""
+    },
+    {
+        "Question": "undergoes",
+        "Answer": "experiences",
+        "Options": ""
+    },
+    {
+        "Question": "undoubtedly",
+        "Answer": "certainly",
+        "Options": ""
+    },
+    {
+        "Question": "uniformly",
+        "Answer": "consistently",
+        "Options": ""
+    },
+    {
+        "Question": "unintentional",
+        "Answer": "unplanned",
+        "Options": "accidental"
+    },
+    {
+        "Question": "unique among",
+        "Answer": "different from all other",
+        "Options": ""
+    },
+    {
+        "Question": "unprecedented",
+        "Answer": "unlike anything in the past",
+        "Options": ""
+    },
+    {
+        "Question": "unpromising",
+        "Answer": "unfavorable",
+        "Options": ""
+    },
+    {
+        "Question": "unrivaled",
+        "Answer": "unequaled",
+        "Options": ""
+    },
+    {
+        "Question": "unsubstantiated",
+        "Answer": "unverified",
+        "Options": ""
+    },
+    {
+        "Question": "upon reflection",
+        "Answer": "after consideration",
+        "Options": ""
+    },
+    {
+        "Question": "upper-class",
+        "Answer": "noble",
+        "Options": ""
+    },
+    {
+        "Question": "urged",
+        "Answer": "encouraged",
+        "Options": ""
+    },
+    {
+        "Question": "vanishes",
+        "Answer": "disappears",
+        "Options": "enormous/ huge"
+    },
+    {
+        "Question": "vast",
+        "Answer": "extensive",
+        "Options": "largely"
+    },
+    {
+        "Question": "vastly",
+        "Answer": "greatly",
+        "Options": ""
+    },
+    {
+        "Question": "verging",
+        "Answer": "bordering",
+        "Options": "confirming"
+    },
+    {
+        "Question": "verify",
+        "Answer": "establish the truth of",
+        "Options": ""
+    },
+    {
+        "Question": "vessel",
+        "Answer": "craft",
+        "Options": "able to survive"
+    },
+    {
+        "Question": "viability",
+        "Answer": "ability to exist",
+        "Options": "surrounding area"
+    },
+    {
+        "Question": "vicinity",
+        "Answer": "region",
+        "Options": ""
+    },
+    {
+        "Question": "vigorously",
+        "Answer": "strong and healthy",
+        "Options": ""
+    },
+    {
+        "Question": "virtually",
+        "Answer": "almost/ nearly",
+        "Options": ""
+    },
+    {
+        "Question": "virtue",
+        "Answer": "desirable quality",
+        "Options": ""
+    },
+    {
+        "Question": "vital",
+        "Answer": "essential",
+        "Options": "unprotected"
+    },
+    {
+        "Question": "vulnerable",
+        "Answer": "open to attack",
+        "Options": "although"
+    },
+    {
+        "Question": "whereas",
+        "Answer": "while",
+        "Options": ""
+    },
+    {
+        "Question": "widespread",
+        "Answer": "common",
+        "Options": ""
+    },
+    {
+        "Question": "with no warning",
+        "Answer": "without any indication beforehand",
+        "Options": ""
+    },
+    {
+        "Question": "yet",
+        "Answer": "however",
+        "Options": ""
+    },
+    {
+        "Question": "yield",
+        "Answer": "produce",
+        "Options": ""
+    },
+    {
+        "Question": "zenith",
+        "Answer": "peak",
+        "Options": ""
+    }
+]
