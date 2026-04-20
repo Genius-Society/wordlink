@@ -1,4 +1,5 @@
 # wordlink
+[![auto-sync](https://github.com/Genius-Society/wordlink/actions/workflows/auto-sync.yml/badge.svg)](https://github.com/Genius-Society/wordlink/actions/workflows/auto-sync.yml)
 [![license](https://img.shields.io/github/license/Genius-Society/wordlink.svg)](https://github.com/Genius-Society/wordlink/blob/main/LICENSE)
 [![cloudflare](https://img.shields.io/badge/cloudflare-wordlinks-f6821f.svg)](https://wordlinks.pages.dev)
 [![hf](https://img.shields.io/badge/huggingface-wordlink-ffd21e.svg)](https://huggingface.co/datasets/Genius-Society/wordlink)
